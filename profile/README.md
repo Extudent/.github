@@ -1,12 +1,12 @@
-# Sortino
+# Extudent
 
 <div width="100%" align="center">
 
-![Sortino Logo](/images/sortino.jpg)
+![Extudent Logo](/images/EX.png)
 
 </div>
 
-## Welcome to Sortino
+## Welcome to Extudent
 
 A trailblazing force in the realm of business intelligence and data visualization. With an unwavering commitment to transforming raw data into actionable insights, **Sortino** is your trusted partner in unlocking the true potential of your business.
 
